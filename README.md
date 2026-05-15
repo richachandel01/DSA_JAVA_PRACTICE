@@ -34,4 +34,15 @@ This repository contains my daily DSA practice in Java for placement preparation
 - Strengthen problem-solving skills
 - Crack coding interviews
 - Improve consistency in DSA
-- Prepare for placements in 2 months
+
+
+# Day 2 - Arrays & Strings
+
+## Arrays Questions
+1. Next Permutation
+2. Majority Element
+3. Longest Consecutive Sequence
+
+## Strings Questions
+1. Frequency of Characters
+2. Check Anagram
