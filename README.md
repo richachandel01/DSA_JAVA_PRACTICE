@@ -46,3 +46,17 @@ This repository contains my daily DSA practice in Java for placement preparation
 ## Strings Questions
 1. Frequency of Characters
 2. Check Anagram
+
+
+
+# Day 3 - Arrays & Strings
+
+## Arrays Questions
+1. Set Matrix Zeroes
+2. Merge Intervals
+3. Merge Sorted Arrays Without Extra Space
+
+## Strings Questions
+1. Longest Common Prefix
+2. Valid Parentheses
+3. String Compression
