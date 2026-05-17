@@ -60,3 +60,16 @@ This repository contains my daily DSA practice in Java for placement preparation
 1. Longest Common Prefix
 2. Valid Parentheses
 3. String Compression
+
+
+
+# Day 4 - Arrays & Strings
+
+## Arrays Questions
+1. Spiral Matrix
+2. Subarray Sum Equals K
+3. Maximum Product Subarray
+
+## Strings Questions
+1. Reverse Words in String
+2. Longest Palindromic Substring
