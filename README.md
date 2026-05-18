@@ -73,3 +73,15 @@ This repository contains my daily DSA practice in Java for placement preparation
 ## Strings Questions
 1. Reverse Words in String
 2. Longest Palindromic Substring
+
+
+
+# Day 5 - Arrays & Strings
+
+## Arrays Questions
+1. Reverse Array
+2. Maximum Product Subarray
+
+## Strings Questions
+1. Reverse String
+2. Roman to Integer
