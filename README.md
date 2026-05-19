@@ -86,3 +86,15 @@ This repository contains my daily DSA practice in Java for placement preparation
 1. Reverse String
 2. Roman to Integer
 3. Largest Element in Array
+
+
+# Day 6 - Arrays & Strings Revision
+
+## Arrays Questions
+1. Second Largest Element
+2. Check if Array is Sorted
+3. Left Rotate Array by 1
+
+## Strings Questions
+1. Group Anagrams
+2. Palindromic String
