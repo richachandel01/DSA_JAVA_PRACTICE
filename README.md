@@ -98,3 +98,17 @@ This repository contains my daily DSA practice in Java for placement preparation
 ## Strings Questions
 1. Group Anagrams
 2. Palindromic String
+
+
+
+# Day 7 - Arrays & Strings
+
+## Arrays Questions
+1. Remove Duplicates from Sorted Array
+2. Missing Number
+3. Find Frequency of Elements
+
+## Strings Questions
+1. Find First Non-Repeating Character
+2. String Compression
+3. Longest Substring Without Repeating Characters
