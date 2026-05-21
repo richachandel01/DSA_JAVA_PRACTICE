@@ -112,3 +112,12 @@ This repository contains my daily DSA practice in Java for placement preparation
 1. Find First Non-Repeating Character
 2. String Compression
 3. Longest Substring Without Repeating Characters
+
+
+
+# Day 8 - Linked List
+
+## Linked List Questions
+1. Reverse Linked List
+2. Middle of Linked List
+3. Detect Loop in Linked List
