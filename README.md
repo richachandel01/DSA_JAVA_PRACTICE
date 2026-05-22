@@ -121,3 +121,13 @@ This repository contains my daily DSA practice in Java for placement preparation
 1. Reverse Linked List
 2. Middle of Linked List
 3. Detect Loop in Linked List
+
+
+
+
+# Day 9 - Linked List
+
+## Linked List Questions
+1. Find Starting Point of Loop
+2. Merge Two Sorted Lists
+3. Remove Nth Node From End
