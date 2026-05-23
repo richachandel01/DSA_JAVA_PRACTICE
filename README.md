@@ -131,3 +131,13 @@ This repository contains my daily DSA practice in Java for placement preparation
 1. Find Starting Point of Loop
 2. Merge Two Sorted Lists
 3. Remove Nth Node From End
+
+
+
+# Day 10 - Linked List
+
+## Linked List Questions
+1. Palindrome Linked List
+2. Add Two Numbers
+3. Intersection of Linked Lists
+4. Reverse Linked List in K Groups
