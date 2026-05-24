@@ -141,3 +141,12 @@ This repository contains my daily DSA practice in Java for placement preparation
 2. Add Two Numbers
 3. Intersection of Linked Lists
 4. Reverse Linked List in K Groups
+
+
+
+# Day 11 - Stack
+
+## Stack Questions
+1. Valid Parentheses
+2. Next Greater Element
+3. Min Stack
