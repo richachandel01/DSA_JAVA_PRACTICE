@@ -150,3 +150,12 @@ This repository contains my daily DSA practice in Java for placement preparation
 1. Valid Parentheses
 2. Next Greater Element
 3. Min Stack
+
+
+
+# Day 12 - Stack
+
+## Stack Questions
+1. Implement Stack Using Queue
+2. Stock Span Problem
+3. Largest Rectangle in Histogram
