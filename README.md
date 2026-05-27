@@ -159,3 +159,11 @@ This repository contains my daily DSA practice in Java for placement preparation
 1. Implement Stack Using Queue
 2. Stock Span Problem
 3. Largest Rectangle in Histogram
+
+
+
+# Day 13 - Stack
+
+## Stack Questions
+1. Infix to Postfix
+2. Evaluate Postfix Expression
