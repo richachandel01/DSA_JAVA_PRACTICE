@@ -167,3 +167,9 @@ This repository contains my daily DSA practice in Java for placement preparation
 ## Stack Questions
 1. Infix to Postfix
 2. Evaluate Postfix Expression
+
+# Day 14 - Queue
+
+## Queue Questions
+1. Implement Queue Using Stack
+2. Circular Queue
