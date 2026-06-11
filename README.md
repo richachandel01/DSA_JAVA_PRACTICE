@@ -173,3 +173,11 @@ This repository contains my daily DSA practice in Java for placement preparation
 ## Queue Questions
 1. Implement Queue Using Stack
 2. Circular Queue
+
+
+
+# Day 15 - Queue + Sliding Window
+
+## Questions
+1. First Negative Number in Every Window
+2. Sliding Window Maximum
