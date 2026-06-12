@@ -181,3 +181,59 @@ This repository contains my daily DSA practice in Java for placement preparation
 ## Questions
 1. First Negative Number in Every Window
 2. Sliding Window Maximum
+
+
+
+
+# Day 16 - Binary Tree Traversals
+
+## Questions Solved
+
+### 1. Inorder Traversal
+
+* Traversal Order: Left → Root → Right
+* Recursive implementation
+
+### 2. Preorder Traversal
+
+* Traversal Order: Root → Left → Right
+* Recursive implementation
+
+### 3. Postorder Traversal
+
+* Traversal Order: Left → Right → Root
+* Recursive implementation
+
+## Concepts Learned
+
+* Binary Tree Basics
+* Recursive Tree Traversal
+* Depth First Search (DFS)
+* Call Stack in Trees
+* Tree Traversal Patterns
+
+## Time Complexity
+
+* Inorder Traversal: O(n)
+* Preorder Traversal: O(n)
+* Postorder Traversal: O(n)
+
+## Space Complexity
+
+* O(h)
+
+Where h is the height of the tree.
+
+## Interview Patterns
+
+* DFS Traversal
+* Recursive Tree Problems
+* Tree Exploration
+
+## Key Learning
+
+Inorder   → Left → Root → Right
+
+Preorder  → Root → Left → Right
+
+Postorder → Left → Right → Root
