@@ -185,6 +185,8 @@ This repository contains my daily DSA practice in Java for placement preparation
 
 
 
+
+
 # Day 16 - Binary Tree Traversals
 
 ## Questions Solved
@@ -237,3 +239,45 @@ Inorder   → Left → Root → Right
 Preorder  → Root → Left → Right
 
 Postorder → Left → Right → Root
+
+
+
+
+
+
+# Day 17 - Trees
+
+## Question Solved
+
+### 1. Level Order Traversal
+
+* Implemented using Queue.
+* Traversed tree level by level.
+* Applied Breadth First Search (BFS).
+
+## Concepts Learned
+
+* Binary Trees
+* Breadth First Search (BFS)
+* Queue Data Structure
+* Level-wise Traversal
+
+## Time Complexity
+
+* O(n)
+
+## Space Complexity
+
+* O(n)
+
+## Interview Pattern
+
+Level Order Traversal is the foundation for:
+
+* Left View of Tree
+* Right View of Tree
+* Zigzag Traversal
+* Vertical Order Traversal
+* Top View
+* Bottom View
+* Tree Serialization
