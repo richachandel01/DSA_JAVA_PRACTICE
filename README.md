@@ -281,3 +281,49 @@ Level Order Traversal is the foundation for:
 * Top View
 * Bottom View
 * Tree Serialization
+
+
+
+
+
+
+
+# Day 18 - Trees
+
+## Question Solved
+
+### 1. Height of Binary Tree
+
+* Calculated maximum depth of a binary tree.
+* Used recursion and DFS approach.
+* Returned maximum height from root to leaf node.
+
+## Concepts Learned
+
+* Binary Trees
+* Recursion
+* Depth First Search (DFS)
+* Tree Height Calculation
+
+## Time Complexity
+
+* O(n)
+
+## Space Complexity
+
+* O(h)
+
+Where:
+
+* n = Number of Nodes
+* h = Height of Tree
+
+## Interview Pattern
+
+Height of Binary Tree is the foundation for:
+
+* Balanced Binary Tree
+* Diameter of Binary Tree
+* Maximum Path Sum
+* Lowest Common Ancestor
+* Tree DP Problems
