@@ -327,3 +327,46 @@ Height of Binary Tree is the foundation for:
 * Maximum Path Sum
 * Lowest Common Ancestor
 * Tree DP Problems
+
+
+
+
+
+# Day 19 - Trees
+
+## Question Solved
+
+### 1. Balanced Binary Tree
+
+- Checked whether a binary tree is height-balanced.
+- Used optimized DFS approach.
+- Returned height for balanced subtree and -1 for unbalanced subtree.
+
+## Concepts Learned
+
+- Binary Trees
+- DFS (Depth First Search)
+- Recursion
+- Height Calculation
+- Tree Validation
+
+## Time Complexity
+
+- O(n)
+
+## Space Complexity
+
+- O(h)
+
+Where:
+- n = Number of Nodes
+- h = Height of Tree
+
+## Interview Pattern
+
+Balanced Binary Tree is the foundation for:
+
+- AVL Trees
+- Diameter of Binary Tree
+- Maximum Path Sum
+- Tree DP Problems
