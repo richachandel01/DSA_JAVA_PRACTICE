@@ -370,3 +370,48 @@ Balanced Binary Tree is the foundation for:
 - Diameter of Binary Tree
 - Maximum Path Sum
 - Tree DP Problems
+
+
+
+
+
+
+
+# Day 20 - Trees
+
+## Question Solved
+
+### 1. Diameter of Binary Tree
+
+- Calculated the longest path between any two nodes.
+- Used DFS and height calculation.
+- Updated diameter while traversing the tree.
+
+## Concepts Learned
+
+- Binary Trees
+- DFS (Depth First Search)
+- Recursion
+- Height Calculation
+- Diameter Calculation
+
+## Time Complexity
+
+- O(n)
+
+## Space Complexity
+
+- O(h)
+
+Where:
+- n = Number of Nodes
+- h = Height of Tree
+
+## Interview Pattern
+
+Diameter of Binary Tree is used in:
+
+- Tree DP
+- Maximum Path Sum
+- Balanced Tree Problems
+- Advanced Tree Traversals
