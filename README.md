@@ -415,3 +415,52 @@ Diameter of Binary Tree is used in:
 - Maximum Path Sum
 - Balanced Tree Problems
 - Advanced Tree Traversals
+
+
+
+
+
+
+# Day 21 - Trees
+
+## Questions Solved
+
+### 1. Maximum Depth of Binary Tree
+
+- Calculated the maximum depth of a binary tree.
+- Used DFS and recursion.
+
+### 2. Check Identical Trees
+
+- Compared two trees recursively.
+- Checked structure and node values.
+
+## Concepts Learned
+
+- Binary Trees
+- DFS (Depth First Search)
+- Recursion
+- Tree Comparison
+- Tree Height
+
+## Time Complexity
+
+- Maximum Depth: O(n)
+- Check Identical Trees: O(n)
+
+## Space Complexity
+
+- O(h)
+
+Where:
+- n = Number of Nodes
+- h = Height of Tree
+
+## Interview Pattern
+
+These concepts are used in:
+
+- Symmetric Tree
+- Subtree of Another Tree
+- Lowest Common Ancestor
+- Tree Serialization
