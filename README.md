@@ -464,3 +464,51 @@ These concepts are used in:
 - Subtree of Another Tree
 - Lowest Common Ancestor
 - Tree Serialization
+
+
+
+
+
+# Day 22 - Trees
+
+## Questions Solved
+
+### 1. Zigzag Traversal
+- Performed level order traversal in zigzag manner.
+- Used BFS and Queue.
+
+### 2. Left View of Binary Tree
+- Printed first node visible from each level.
+- Used level order traversal.
+
+### 3. Right View of Binary Tree
+- Printed last node visible from each level.
+- Used level order traversal.
+
+## Concepts Learned
+
+- Binary Trees
+- BFS (Breadth First Search)
+- Queue
+- Tree Views
+- Zigzag Traversal
+
+## Time Complexity
+
+- Zigzag Traversal: O(n)
+- Left View: O(n)
+- Right View: O(n)
+
+## Space Complexity
+
+- O(n)
+
+## Interview Pattern
+
+These concepts are used in:
+
+- Top View
+- Bottom View
+- Vertical Order Traversal
+- Boundary Traversal
+- Tree Serialization
