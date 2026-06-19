@@ -469,6 +469,9 @@ These concepts are used in:
 
 
 
+
+
+
 # Day 22 - Trees
 
 ## Questions Solved
@@ -512,3 +515,49 @@ These concepts are used in:
 - Vertical Order Traversal
 - Boundary Traversal
 - Tree Serialization
+
+
+
+
+
+
+
+
+# Day 23 - Trees
+
+## Question Solved
+
+### 1. Lowest Common Ancestor (LCA)
+
+- Found the lowest common ancestor of two nodes.
+- Used recursive DFS approach.
+- Returned the first common node encountered from both sides.
+
+## Concepts Learned
+
+- Binary Trees
+- DFS (Depth First Search)
+- Recursion
+- Tree Path Analysis
+- Lowest Common Ancestor
+
+## Time Complexity
+
+- O(n)
+
+## Space Complexity
+
+- O(h)
+
+Where:
+- n = Number of Nodes
+- h = Height of Tree
+
+## Interview Pattern
+
+LCA is used in:
+
+- Distance Between Nodes
+- Tree Queries
+- Binary Lifting
+- Advanced Tree Problems
