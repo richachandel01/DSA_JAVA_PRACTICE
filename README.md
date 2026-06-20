@@ -561,3 +561,57 @@ LCA is used in:
 - Tree Queries
 - Binary Lifting
 - Advanced Tree Problems
+
+
+
+
+
+
+# Day 24 - Trees
+
+## Questions Solved
+
+### 1. Boundary Traversal
+
+- Traversed boundary nodes of binary tree.
+- Covered:
+  - Left Boundary
+  - Leaf Nodes
+  - Right Boundary (Reverse)
+
+### 2. Vertical Order Traversal
+
+- Grouped nodes based on horizontal distance.
+- Used BFS + TreeMap.
+
+## Concepts Learned
+
+- Binary Trees
+- BFS
+- DFS
+- Tree Views
+- Horizontal Distance
+- TreeMap
+- Queue
+
+## Time Complexity
+
+### Boundary Traversal
+- O(n)
+
+### Vertical Order Traversal
+- O(n log n)
+
+## Space Complexity
+
+- O(n)
+
+## Interview Pattern
+
+These concepts are used in:
+
+- Top View
+- Bottom View
+- Vertical Sum
+- Boundary Traversal
+- Advanced Tree View Problems
