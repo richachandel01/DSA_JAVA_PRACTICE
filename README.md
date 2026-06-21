@@ -615,3 +615,45 @@ These concepts are used in:
 - Vertical Sum
 - Boundary Traversal
 - Advanced Tree View Problems
+
+
+
+
+# Day 24 - Binary Search Tree (BST)
+
+## Question Solved
+
+### 1. Search in BST
+
+- Searched an element in Binary Search Tree.
+- Used BST property to reduce search space.
+- Implemented recursive and iterative approaches.
+
+## Concepts Learned
+
+- Binary Search Tree
+- Recursion
+- Binary Search Logic
+- Tree Traversal
+
+## Time Complexity
+
+- O(h)
+
+Where:
+- h = Height of BST
+
+## Space Complexity
+
+- Recursive: O(h)
+- Iterative: O(1)
+
+## Interview Pattern
+
+Search in BST is the foundation for:
+
+- Insert in BST
+- Delete Node in BST
+- Validate BST
+- Lowest Common Ancestor in BST
+- Kth Smallest Element
