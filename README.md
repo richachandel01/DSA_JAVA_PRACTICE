@@ -657,3 +657,59 @@ Search in BST is the foundation for:
 - Validate BST
 - Lowest Common Ancestor in BST
 - Kth Smallest Element
+
+
+
+
+
+# Day 25 - Binary Search Tree (BST)
+
+## Questions Solved
+
+### 1. Insert in BST
+
+- Inserted a node while maintaining BST property.
+- Used recursive approach.
+
+### 2. Delete Node in BST
+
+Handled all deletion cases:
+
+- Leaf Node
+- One Child
+- Two Children
+
+Used Inorder Successor for deletion.
+
+## Concepts Learned
+
+- Binary Search Tree
+- Recursive Insertion
+- Node Deletion
+- Inorder Successor
+- BST Operations
+
+## Time Complexity
+
+### Insert
+- O(h)
+
+### Delete
+- O(h)
+
+Where:
+- h = Height of BST
+
+## Space Complexity
+
+- O(h)
+
+## Interview Pattern
+
+These concepts are used in:
+
+- Validate BST
+- Lowest Common Ancestor in BST
+- Kth Smallest Element
+- BST Iterator
+- Recover BST
