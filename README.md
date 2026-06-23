@@ -713,3 +713,46 @@ These concepts are used in:
 - Kth Smallest Element
 - BST Iterator
 - Recover BST
+
+
+
+
+
+# Day 26 - Binary Search Tree (BST)
+
+## Question Solved
+
+### 1. Validate BST
+
+- Verified whether a binary tree follows BST rules.
+- Used min-max range validation.
+- Handled edge cases efficiently.
+
+## Concepts Learned
+
+- Binary Search Tree
+- Recursion
+- Range Checking
+- Tree Validation
+
+## Time Complexity
+
+- O(n)
+
+## Space Complexity
+
+- O(h)
+
+Where:
+- n = Number of Nodes
+- h = Height of Tree
+
+## Interview Pattern
+
+Validate BST is the foundation for:
+
+- BST Iterator
+- Recover BST
+- Kth Smallest Element
+- LCA in BST
+- Advanced BST Problems
