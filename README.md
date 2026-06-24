@@ -756,3 +756,45 @@ Validate BST is the foundation for:
 - Kth Smallest Element
 - LCA in BST
 - Advanced BST Problems
+
+
+
+
+
+# Day 27 - Binary Search Tree (BST)
+
+## Question Solved
+
+### 1. Kth Smallest Element in BST
+
+- Found the Kth smallest element in a BST.
+- Used inorder traversal.
+- Leveraged BST property that inorder traversal gives sorted order.
+
+## Concepts Learned
+
+- Binary Search Tree
+- Inorder Traversal
+- Recursion
+- Sorted Traversal
+
+## Time Complexity
+
+- O(n)
+
+## Space Complexity
+
+- O(h)
+
+Where:
+- n = Number of Nodes
+- h = Height of BST
+
+## Interview Pattern
+
+Kth Smallest Element is used in:
+
+- BST Iterator
+- Kth Largest Element
+- Order Statistics
+- Advanced BST Problems
