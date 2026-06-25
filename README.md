@@ -798,3 +798,46 @@ Kth Smallest Element is used in:
 - Kth Largest Element
 - Order Statistics
 - Advanced BST Problems
+
+
+
+
+# Day 28 - Graphs
+
+## Question Solved
+
+### 1. BFS Traversal of Graph
+
+- Implemented Breadth First Search (BFS).
+- Used Queue for traversal.
+- Traversed graph level by level.
+
+## Concepts Learned
+
+- Graph Representation
+- Adjacency List
+- BFS (Breadth First Search)
+- Queue
+- Visited Array
+
+## Time Complexity
+
+- O(V + E)
+
+Where:
+- V = Number of Vertices
+- E = Number of Edges
+
+## Space Complexity
+
+- O(V)
+
+## Interview Pattern
+
+BFS is the foundation for:
+
+- Shortest Path in Unweighted Graph
+- Cycle Detection
+- Connected Components
+- Rotten Oranges
+- Word Ladder
