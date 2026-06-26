@@ -841,3 +841,47 @@ BFS is the foundation for:
 - Connected Components
 - Rotten Oranges
 - Word Ladder
+
+
+
+
+# Day 29 - Graphs
+
+## Question Solved
+
+### 1. DFS Traversal of Graph
+
+- Implemented Depth First Search (DFS).
+- Used recursion for graph traversal.
+- Traversed all reachable vertices from the source node.
+
+## Concepts Learned
+
+- Graph Representation
+- Adjacency List
+- Depth First Search (DFS)
+- Recursion
+- Visited Array
+
+## Time Complexity
+
+- O(V + E)
+
+Where:
+- V = Number of Vertices
+- E = Number of Edges
+
+## Space Complexity
+
+- O(V)
+
+## Interview Pattern
+
+DFS is the foundation for:
+
+- Number of Islands
+- Flood Fill
+- Cycle Detection
+- Topological Sort
+- Strongly Connected Components
+- Backtracking Problems
