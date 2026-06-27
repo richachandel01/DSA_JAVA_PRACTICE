@@ -885,3 +885,47 @@ DFS is the foundation for:
 - Topological Sort
 - Strongly Connected Components
 - Backtracking Problems
+
+
+
+
+
+# Day 30 - Graphs
+
+## Question Solved
+
+### 1. Number of Islands
+
+- Counted the number of islands in a 2D grid.
+- Used Depth First Search (DFS) to mark all connected land cells.
+- Explored only horizontal and vertical neighbors.
+
+## Concepts Learned
+
+- Graph Traversal on Grid
+- Depth First Search (DFS)
+- Matrix Traversal
+- Connected Components
+- Recursion
+
+## Time Complexity
+
+- O(M × N)
+
+Where:
+- M = Number of Rows
+- N = Number of Columns
+
+## Space Complexity
+
+- O(M × N)
+
+## Interview Pattern
+
+Number of Islands is the foundation for:
+
+- Flood Fill
+- Surrounded Regions
+- Pacific Atlantic Water Flow
+- Number of Enclaves
+- Max Area of Island
