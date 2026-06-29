@@ -929,3 +929,62 @@ Number of Islands is the foundation for:
 - Pacific Atlantic Water Flow
 - Number of Enclaves
 - Max Area of Island
+
+
+
+
+# Day 31 - Graphs
+
+## Questions Solved
+
+### 1. Detect Cycle in Undirected Graph (BFS)
+
+- Detected cycle using Breadth First Search.
+- Stored parent node to avoid false cycle detection.
+- Traversed all graph components.
+
+### 2. Flood Fill Algorithm
+
+- Changed the color of all connected pixels.
+- Used Depth First Search (DFS).
+- Traversed only valid neighboring cells.
+
+## Concepts Learned
+
+- Graph Traversal
+- Breadth First Search (BFS)
+- Depth First Search (DFS)
+- Queue
+- Matrix Traversal
+- Parent Tracking
+- Connected Components
+
+## Time Complexity
+
+### Detect Cycle
+- O(V + E)
+
+### Flood Fill
+- O(M × N)
+
+Where:
+- V = Number of Vertices
+- E = Number of Edges
+- M = Number of Rows
+- N = Number of Columns
+
+## Space Complexity
+
+- Detect Cycle: O(V)
+- Flood Fill: O(M × N)
+
+## Interview Pattern
+
+These concepts are used in:
+
+- Number of Islands
+- Surrounded Regions
+- Rotten Oranges
+- Shortest Path
+- Cycle Detection
+- Graph Connectivity
