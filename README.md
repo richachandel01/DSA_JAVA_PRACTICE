@@ -988,3 +988,46 @@ These concepts are used in:
 - Shortest Path
 - Cycle Detection
 - Graph Connectivity
+
+
+
+
+
+# Day 32 - Graphs
+
+## Question Solved
+
+### 1. Rotten Oranges
+
+- Calculated the minimum time required to rot all fresh oranges.
+- Used Multi-Source Breadth First Search (BFS).
+- Processed all initially rotten oranges simultaneously.
+
+## Concepts Learned
+
+- Graph Traversal
+- Multi-Source BFS
+- Queue
+- Matrix Traversal
+- Level Order Processing
+
+## Time Complexity
+
+- O(M × N)
+
+Where:
+- M = Number of Rows
+- N = Number of Columns
+
+## Space Complexity
+
+- O(M × N)
+
+## Interview Pattern
+
+Rotten Oranges is the foundation for:
+
+- Walls and Gates
+- Shortest Path in Binary Matrix
+- 01 Matrix
+- Multi-Source BFS Problems
