@@ -1031,3 +1031,48 @@ Rotten Oranges is the foundation for:
 - Shortest Path in Binary Matrix
 - 01 Matrix
 - Multi-Source BFS Problems
+
+
+
+
+
+
+# Day 33 - Graphs
+
+## Question Solved
+
+### 1. Topological Sort (DFS)
+
+- Implemented Topological Sort using Depth First Search (DFS).
+- Used a stack to store vertices after visiting all their neighbors.
+- Generated a valid ordering for a Directed Acyclic Graph (DAG).
+
+## Concepts Learned
+
+- Directed Acyclic Graph (DAG)
+- Topological Sorting
+- Depth First Search (DFS)
+- Stack
+- Graph Traversal
+
+## Time Complexity
+
+- O(V + E)
+
+Where:
+- V = Number of Vertices
+- E = Number of Edges
+
+## Space Complexity
+
+- O(V)
+
+## Interview Pattern
+
+Topological Sort is the foundation for:
+
+- Course Schedule
+- Alien Dictionary
+- Build Order Problems
+- Task Scheduling
+- Dependency Resolution
